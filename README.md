@@ -11,6 +11,12 @@
 On here, you will find some repos meant for class purpose only (exercizes repos) most of them private but some might escape my attention, and some personal and class projects, with more elaborate stuff. 
 Most of it is going to be documented (because I love myself some writing) and, at least for now, most of it is going to be in JavaScript, React JS and Node JS, because it is what I know best and what I study. But I'm open to learn more.
 
+So far, I worked on two class projects, and a third one is in the hoven:
+
+1/ **Wildcards** - [an HTML, CSS and a pinch of JavaScript single page website](https://wildcodeschool.github.io/Lyon-js-202005-project-Trombino/). It's not super responsive, but it is a cool little yearbook that we did after two weeks of learning code; the simple modal was already a challenge at the time.
+
+2/ **Gamovore** - [a dynamic desktop first app made with ReactJS and Firebase](https://gamovore.netlify.app/), that aims to connect gamers using the games they own. I work mostly on the API calls using axios, the filters system, the logo and a lot of UX, and UI.
+
 ---
 
 :video_game: As much as I enjoy web development (and I thouroughly enjoy it...like A LOT) my love for video games sometimes still takes the better of me.
