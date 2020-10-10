@@ -27,10 +27,10 @@ I have three personal game projects on the back burner:
 1/ ***Jumper JS aka Seb's Adventure*** - a [pure JS infinite runner](https://github.com/Seblecaribou/Jumping-JS) where you jump on a bike above ducks in the streets of Lyon. It's already functional, you can [play it](https://seblecaribou.github.io/Jumping-JS/), there is a score system, but it lacks nuances in the gameplay, and the hitbox system is not great. I need to fix it and add a couple of mechanics. Infos in the Readme.
 
 ![Private Space Invader](https://i.imgur.com/CWkMvNU.gif)
-2/ ***Private Space Invader*** - a pure JS game where you try to deliver papers to your boss while escaping your collegues germs in time of Covid (I promise it's not going to be as demoralising as it sounds). It's essentially a learning tool for HTML canvas and their use with Javascript. It's not far enough to have a repo yet, but I'm getting there.
+2/ ***Private Space Invader*** - a pure JS game where you try to deliver papers to your boss while escaping your collegues germs in time of Covid (I promise it's not going to be as demoralising as it sounds). It's essentially a learning tool for HTML canvas and their use with Javascript. It's not far enough to have a public repo yet, but I'm getting there.
 
 ![The Last Case](https://i.imgur.com/pjWP2EY.gif)
-3/ ***The Last Case*** - an adventure game, made with Game Maker Studio 1. I started it a while ago, when I wasn't coding yet and I really want to finish it. It's a very short detective game, set in a single apartment with multiple ending. Most of the mechanics are already there, but I need to polish it a lot. And I'm still working on how to version it.
+3/ ***The Last Case*** - an adventure game, made with Game Maker Studio 1. I started it a while ago, when I wasn't coding yet and I really want to finish it. It's a very short detective game, set in a single apartment with multiple endings. Most of the mechanics are already there, but I need to polish it a lot. And I'm still working on how to version it properly.
 
 ---
 
