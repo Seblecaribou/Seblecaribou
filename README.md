@@ -6,7 +6,7 @@
 
 ---
 
-🌱 I am a **web developer from France** with a passion for **art**, **coding** and **video game**. The more I learn about any of these subjects, the better!
+🌱 I am a **web developer from France** with a passion for **art**, **coding** and **video games**. The more I learn about any of these subjects, the better!
 
 On here, you will find some repos meant for class purpose only (exercizes repos) most of them private but some might escape my attention, and some personal and class projects, with more elaborate stuff. 
 Most of it is going to be documented (because I love myself some writing) and, at least for now, most of it is going to be in JavaScript, React JS and Node JS, because it is what I know best and what I study. But I'm open to learn more.
