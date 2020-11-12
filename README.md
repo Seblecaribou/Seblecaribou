@@ -10,6 +10,7 @@
 
 On here, you will find some repos meant for class purpose only (exercizes repos) most of them private but some might escape my attention, and some personal and class projects, with more elaborate stuff. 
 Most of it is going to be documented (because I love myself some writing) and, at least for now, most of it is going to be in JavaScript, React JS and Node JS, because it is what I know best and what I study. But I'm open to learn more.
+I'm all about refinement; I'd rather do less but good, than a lot poorly. That goes for development and for my art too.
 
 So far, I worked on two class projects, and a third one is in the hoven:
 
