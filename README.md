@@ -12,11 +12,13 @@ On here, you will find some repos meant for class purpose only (exercizes repos)
 Most of it is going to be documented (because I love myself some writing) and, at least for now, most of it is going to be in JavaScript, React JS and Node JS, because it is what I know best and what I study. But I'm open to learn more.
 I'm all about refinement; I'd rather do less but good, than a lot poorly. That goes for development and for my art too.
 
-So far, I worked on two class projects, and a third one is in the hoven:
+I worked on three class projects, with the third one being a client project:
 
 1/ **Wildcards** - [an HTML, CSS and a pinch of JavaScript single page website](https://wildcodeschool.github.io/Lyon-js-202005-project-Trombino/). It's not super responsive, but it is a cool little yearbook that we did after two weeks of learning code; the simple modal was already a challenge at the time.
 
 2/ **Gamovore** - [a dynamic desktop first app made with ReactJS and Firebase](https://gamovore.netlify.app/), that aims to connect gamers using the games they own. I work mostly on the API calls using axios, the filters system, the logo and a lot of UX, and UI.
+
+3/ **Sens-Interdits** - [a fully administrable responsive app made with GatsbyJS and Strapi](https://github.com/WildCodeSchool/lyon-p3-sens-interdit). Even though we were sevendevs to make it in roughly two months, I had the opportunity to work on pretty much everything on it with my great teammates, be it front or back. I mostly worked on the Strapi API and the database structure though, then took on the translation, the documentation and a lot of Gatsby components for display such as the carousel and the tab system. So far it's been my favorite and most challenging project to work on!
 
 ---
 
