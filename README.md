@@ -22,9 +22,13 @@ I worked on three class projects, with the third one being an actual client proj
 
 ---
 
-:video_game: As much as I enjoy web development (and I thouroughly enjoy it...like A LOT) my love for video games sometimes still takes the better of me.
+As of 2021, I started a job at a french tech company, where I learn C#, WPF and .Net in general. It's a lot of work, but a lot of fun.
 
-I have three personal game projects on the back burner:
+---
+
+:video_game: As much as I enjoy web development (and I thouroughly enjoy it...like A LOT) my love for video games sometimes still takes the better of me. I started working with Game Maker Studio 1.4, but am slowly learning Unity with the help of Unity and all the things I learn at work on C#.
+
+I have three personal game projects on the back burner, with a fourth one that I'll document when I'm more into it:
 
 ![Jumping JS](https://i.imgur.com/GP8HGm8.gif)
 1/ ***Jumper JS aka Seb's Adventure*** - a [pure JS infinite runner](https://github.com/Seblecaribou/Jumping-JS) where you jump on a bike above ducks in the streets of Lyon. It's already functional, you can [play it](https://seblecaribou.github.io/Jumping-JS/), there is a score system, but it lacks nuances in the gameplay, and the hitbox system is not great. I need to fix it and add a couple of mechanics. Infos in the Readme.
