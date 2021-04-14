@@ -33,11 +33,11 @@ I have three personal game projects on the back burner, with a fourth one that I
 ![Jumping JS](https://i.imgur.com/GP8HGm8.gif)
 1/ ***Jumper JS aka Seb's Adventure*** - a [pure JS infinite runner](https://github.com/Seblecaribou/Jumping-JS) where you jump on a bike above ducks in the streets of Lyon. It's already functional, you can [play it](https://seblecaribou.github.io/Jumping-JS/), there is a score system, but it lacks nuances in the gameplay, and the hitbox system is not great. I need to fix it and add a couple of mechanics. Infos in the Readme.
 
-![Private Space Invader](https://i.imgur.com/CWkMvNU.gif)
-2/ ***Private Space Invader*** - a pure JS game where you try to deliver papers to your boss while escaping your collegues germs in time of Covid (I promise it's not going to be as demoralising as it sounds). It's essentially a learning tool for HTML canvas and their use with Javascript. It's not far enough to have a public repo yet, but I'm getting there.
-
 ![The Last Case](https://i.imgur.com/pjWP2EY.gif)
-3/ ***The Last Case*** - an adventure game, made with Game Maker Studio 1. I started it a while ago, when I wasn't coding yet and I really want to finish it. It's a very short detective game, set in a single apartment with multiple endings. Most of the mechanics are already there, but I need to polish it a lot. And I'm still working on how to version it properly.
+2/ ***The Last Case*** - an adventure game, made with Game Maker Studio 1. I started it a while ago, when I wasn't coding yet and I really want to finish it. It's a very short detective game, set in a single apartment with multiple endings. Most of the mechanics are already there, but I need to polish it a lot. And I'm still working on how to version it properly. I might actually port this one to Unity, actually.
+
+![Project Boost](https://community.gamedev.tv/uploads/db2322/original/3X/6/7/67a75ab57cdc92c049c6afef9a73e4a359d2432b.gif)
+3/***Project Boost*** - an arcade/adventure game, made with Unity in C#. This is part of a Udemy course from Gamedev.tv. You play a scientist trying to escape the apocalypse in a rocket fueled fridge. You can follow my development process [here](https://community.gamedev.tv/t/making-a-full-game-out-of-project-boost-devlog/164056)! This project helps me learning a lot about Unity, and especially graphics (coding your own shaders, importing models, textures from Blender, particle effects etc.). It's a blast!
 
 ---
 
